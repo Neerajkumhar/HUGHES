@@ -1,0 +1,18 @@
+/*
+Theme Name: Hughes SF
+Theme URI: https://www.hughessf.com
+Author: Hughes SF
+Author URI: https://www.hughessf.com
+Description: A minimal, luxurious, architecture-focused single-page experience for Hughes SF — custom residential construction in San Francisco. Warm ivory and stone palette, editorial serif typography, full-bleed architecture photography, and a refined link to Insight HM for home maintenance and care.
+Version: 1.0.0
+Requires at least: 6.0
+Tested up to: 6.7
+Requires PHP: 7.4
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: hughes-sf
+Tags: one-column, custom-menu, custom-logo, featured-images, translation-ready, block-styles
+*/
+
+/* All stylesheet rules live in assets/css/hughes-sf.css and are enqueued
+   by functions.php. This file carries the required theme metadata header. */

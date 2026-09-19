@@ -1,0 +1,19 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Local WordPress (kept out; bring your own install)
+wp-config.php
+*.sql
+
+# Logs / build junk
+*.log
+
+# Docker local environment
+docker/
+docker-compose.yml
